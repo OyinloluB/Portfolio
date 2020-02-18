@@ -419,7 +419,7 @@ section#contact {
     font-size: 18px;
   }
   .far {
-    display: none;
+    /* display: none; */
   }
   .developer,
   .contact,
@@ -467,7 +467,7 @@ section#contact {
     background: #ffff;
   }
   .far {
-    margin-left: 4rem;
+    margin-left: 8%;
   }
   .side-form {
     flex: none;
